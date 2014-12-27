@@ -23,7 +23,7 @@ These things are blocked:
 Contributors
 ---------------------------------------
 
-Any additional blocking rules are most welcome!
+Any additional blocking rules are most welcome! The code is at https://bitbucket.org/mverleg/firefox_block_read_more
 
 
 Website operators
@@ -31,5 +31,8 @@ Website operators
 
 Sorry buddies. I know you're just trying to earn some money by keeping people trapped in your little corner of the interwebs. We are also just trying to make money by doing our job without getting sidetracked constantly. 
 
+License
+---------------------------------------
 
+Revised BSD License, see LICENSE.txt. You can use the addon as you choose, without warranty. The code is also available, see Contributors.
 

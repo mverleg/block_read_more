@@ -1,9 +1,9 @@
 {
-  "name": "tmp",
-  "title": "tmp",
+  "name": "Block \"Read More\"",
+  "title": "Block \"Read More\"",
   "id": "jid1-qASpCaDnZEdOqw",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "description": "Blocks \"read-more\" style elements on several popular websites, to help stay focussed on the actual content you were looking for.",
+  "author": "Mark",
+  "license": "BSD",
+  "version": "0.1.1"
 }
