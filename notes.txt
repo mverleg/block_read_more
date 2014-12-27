@@ -1,8 +1,0 @@
-
-# get/use SDK
-https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation
-
-# relevant usage notes
-https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Modifying_Web_Pages_Based_on_URL
-
-
