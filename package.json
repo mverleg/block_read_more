@@ -1,9 +1,10 @@
 {
   "name": "block_read_more",
   "title": "Block \"Read More\"",
-  "id": "jid1-qASpCaDnZEdOqw",
+  "id": "jid1-qASpCaDnZEdOqw@jetpack",
   "description": "Blocks \"read-more\" style elements on several popular websites, to help stay focussed on the actual content you were looking for.",
   "author": "Mark",
   "license": "BSD",
-  "version": "0.2.1"
+  "version": "0.2.1",
+  "main": "lib/main.js"
 }
