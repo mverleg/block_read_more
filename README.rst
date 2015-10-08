@@ -16,6 +16,7 @@ These things are blocked:
 * Youtube: side suggestions, not the end-of-video suggestions or main page feed
 * Stackexchange network: hot network questions
 * Facebook: just suggested groups, games, interests and lists
+* Quora: several lists of related questions
 
 (This list might not be entirely up-to-date)
 
@@ -29,10 +30,19 @@ Any additional blocking rules are most welcome! The code is at https://bitbucket
 Website operators
 ---------------------------------------
 
-Sorry buddies. I know you're just trying to earn some money by keeping people trapped in your little corner of the interwebs. We are also just trying to make money by doing our job without getting sidetracked constantly. 
+Sorry buddies. I know you're just trying to earn some money by keeping people trapped in your little corner of the interwebs. We are also just trying to make money by doing our job without getting sidetracked constantly.
+
 
 License
 ---------------------------------------
 
 Revised BSD License, see LICENSE.txt. You can use the addon as you choose, without warranty. The code is also available, see Contributors.
+
+
+Other addons
+---------------------------------------
+
+* Hide distracting "read more" parts of some popular sites [this one] - https://addons.mozilla.org/firefox/addon/block_read_more/
+* Hide comments on some popular sites where they are notoriously unconstructive - https://addons.mozilla.org/firefox/addon/block-comments/
+* Hide the registration overlay on Quora - https://addons.mozilla.org/firefox/addon/quora-unfade/
 
