@@ -13,7 +13,7 @@ Included websites
 These things are blocked:
 
 * Wikipedia: 'did you know', 'featured article' and 'today' (only news on Homepage)
-* Youtube: side suggestions, not the end-of-video suggestions or main page feed
+* Youtube: side suggestions & main page suggestions, not the end-of-video suggestions
 * Stackexchange network: hot network questions
 * Facebook: just suggested groups, games, interests and lists
 * Quora: several lists of related questions
