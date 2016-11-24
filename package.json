@@ -5,6 +5,9 @@
   "description": "Blocks \"read-more\" style elements on several popular websites, to help stay focussed on the actual content you were looking for.",
   "author": "Mark",
   "license": "BSD",
-  "version": "0.6.3",
-  "main": "lib/main.js"
+  "version": "0.6.4",
+  "main": "lib/main.js",
+  "permissions": {
+    "multiprocess": true
+  }
 }
