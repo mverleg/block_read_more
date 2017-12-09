@@ -1,0 +1,21 @@
+
+
+#mp-upper td:nth-child(1), /* left part */
+#mp-upper td:nth-child(2),  /* invisible placeholder */
+#mp-otd, #mp-otd-h2,  /* on this day */
+#mp-lower,  /* features picture */
+#mp-topbanner  /* welcome to wikipedia */
+{
+	display: none;
+}
+
+#mp-upper {
+	margin: 0 auto 800px auto;
+	max-width: 800px;
+}
+
+#n-randompage  /* random page link */
+{
+	display: none;
+}
+

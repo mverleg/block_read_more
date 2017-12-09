@@ -1,0 +1,11 @@
+
+/* Hot questions in sidebar */
+#hot-network-questions, #hireme, .community-bulletin {
+	display: none !important;
+}
+
+/* Top question list on 'main page' */
+#qlist-wrapper {
+	display: none;
+}
+

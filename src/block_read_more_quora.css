@@ -1,0 +1,12 @@
+
+.question_related,  /* related questions on right side */
+.logged_out_related_questions_container, /* related questions middle of answer */
+.QuestionRelatedAnswers,  /* more answers by ... */
+.main_feed,  /* home screen list */
+.header_nav > span:nth-child(1),  /* home button */
+.header_nav > span:nth-child(2),   /* answer button */
+.layout_3col_left  /* feeds on right */
+{
+	display: none;
+}
+

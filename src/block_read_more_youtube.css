@@ -1,4 +1,10 @@
 
+/* Remove sidebar. */
+.watch-sidebar-section, #related {
+	display: none;
+}
 
-/* TODO */
-
+/* Remove html5 endscreen. */
+.html5-endscreen {
+	display: none;
+}
