@@ -22,12 +22,12 @@ which is already enough to save days worth of time, but other suggestions are we
 Contributions
 ---------------------------------------
 
-Any additional blocking rules are most welcome! You can request them at https://github.com/mverleg/block_comments/issues
+Any additional blocking rules are most welcome! You can request them at https://github.com/mverleg/block_read_more/issues
 
 License
 ---------------------------------------
 
-Revised BSD License, see https://github.com/mverleg/block_comments/blob/master/LICENSE.txt. You can use the addon as you choose, without warranty. The code is also available, see Contributors.
+Revised BSD License, see https://github.com/mverleg/block_read_more/blob/master/LICENSE.txt. You can use the addon as you choose, without warranty. The code is also available, see Contributors.
 
 Other addons
 ---------------------------------------
