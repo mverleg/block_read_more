@@ -8,3 +8,10 @@
 .html5-endscreen {
 	display: none;
 }
+
+/* Remove suggestions on the homescreen. */
+ytd-browse {
+	display: none;
+}
+
+

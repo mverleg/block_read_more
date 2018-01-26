@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Block read more",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "author": "Mark",
   "homepage_url": "https://github.com/mverleg/block_read_more",
   "description": "Removes distracting 'read more' sections on a select number of websites.",
